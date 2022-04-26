@@ -6,7 +6,7 @@ namespace MovieDatabaseLab
     {
         public static void Main()
         {
-            bool DidNotFuckUp = true;
+           
             Movie thisMovie;
             while (true)
             {
